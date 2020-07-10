@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there guys 👋
+That's great to see you are here!
 
 <!--
 **rikusen0335/rikusen0335** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
