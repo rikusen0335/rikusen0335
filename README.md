@@ -11,7 +11,9 @@
 
 
 ## Works
-[Posting service](https://copper-stacker-285304.df.r.appspot.com/)
+- [📫 Posting service](https://copper-stacker-285304.df.r.appspot.com/)
+
+Any contacts are allowed! Please ask me on [Twitter(@RikuS3n)](https://twitter.com/RikuS3n)
 
 <!--
 **rikusen0335/rikusen0335** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
