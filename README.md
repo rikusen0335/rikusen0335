@@ -1,15 +1,6 @@
 [![Qiita followers](https://qiita-badge.apiapi.app/s/RikuS3n/posts.svg)](http://qiita.com/RikuS3n) [![Qiita contributions](https://qiita-badge.apiapi.app/s/RikuS3n/contributions.svg)](http://qiita.com/RikuS3n) [![Qiita followers](https://qiita-badge.apiapi.app/s/RikuS3n/followers.svg)](http://qiita.com/RikuS3n)
 
-<div>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="left" src="https://github-readme-stats.vercel.app/api?username=rikusen0335&count_private=true&show_icons=true" />
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rikusen0335" />
-  </a>
-</div>
-
----
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=rikusen0335&count_private=true&show_icons=true" />
 
 
 ## Works
@@ -23,6 +14,7 @@
 - 📫 Reach me from [Twitter](https://x.com/RikuS3n) or Discord(rikusen0335)
 - 😄 Pronouns: Anything is okay but prefer he/him
 - ⚡ Fun fact: 165cm tall
+
 
 <!--
 **rikusen0335/rikusen0335** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
