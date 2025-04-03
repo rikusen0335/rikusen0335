@@ -1,7 +1,18 @@
 [![Qiita followers](https://qiita-badge.apiapi.app/s/RikuS3n/posts.svg)](http://qiita.com/RikuS3n) [![Qiita contributions](https://qiita-badge.apiapi.app/s/RikuS3n/contributions.svg)](http://qiita.com/RikuS3n) [![Qiita followers](https://qiita-badge.apiapi.app/s/RikuS3n/followers.svg)](http://qiita.com/RikuS3n)
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=rikusen0335&count_private=true&show_icons=true" />
-
+<div>
+  <h2>Skills</h2>
+  <h3>Languages & Frameworks</h3>
+  <img src="https://skillicons.dev/icons?i=elixir,react,next,vue,nuxt,vite,astro,express,tailwind,flutter,js,ts,nodejs,wordpress,java,kotlin,spring,gradle,go,ruby,materialui,dotnet,apollo,graphql,html,css,scss,pug,python">
+  <h3>Infrastructures</h3>
+  <img src="https://skillicons.dev/icons?i=aws,gcp,cloudflare,terraform,vercel">
+  <h3>Tools</h3>
+  <img src="https://skillicons.dev/icons?i=git,atom,vscode,visualstudio,vim,neovim,figma,bash,powershell,eclipse,postman,yarn,pnpm">
+  <h3>OS</h3>
+  <img src="https://skillicons.dev/icons?i=arch,linux,windows,debian,ubuntu">
+  <h3>Others</h3>
+  <img src="https://skillicons.dev/icons?i=ae,discord,misskey,twitter,devto,github,githubactions,gitlab,bitbucket,blender,unity,unreal">
+</div>
 
 ## Works
 - ~~[📫 Posting service](https://copper-stacker-285304.df.r.appspot.com/)~~ _Now closed. Please look at: https://github.com/DEVDOX/post-tech-web_
