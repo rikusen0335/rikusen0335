@@ -31,9 +31,13 @@
 
 ## Description
 Hi, I'm rikusen, a.k.a Soshi Homma, who does write codes for fun.
+
 Mainly uses frontend technologies like Next.js, Nuxt.js or something like that.
+
 I prefer using modern and static-typed language like Elixir(not typed), Golang, Rust, Kotlin, tho, more like, pure functional language Scala(not tried yet x\).
+
 I can write codes Next.js(JS/TS), Nuxt.js(TS/JS - Options API), Golang, Ruby on Rails, SpringBoot, Ktor for business level.
+
 I prefer CLIs. Uses git only from terminal rather than VSCode or something.
 
 <!--
