@@ -18,6 +18,9 @@
 - ~~[📫 Posting service](https://copper-stacker-285304.df.r.appspot.com/)~~ _Now closed. Please look at: https://github.com/DEVDOX/post-tech-web_
 - [🔄 Convert CSS to JSX](https://css-to-jsx.vercel.app/)
 - [✅ REST API with Spring Framework](https://github.com/rikusen0335/spring-rest-todo/tree/master)
+- [🌐 My website](https://rikusen.dev) ([Source](https://github.com/rikusen0335/ReLog))
+- [Discord TTS bot made with Rust](https://github.com/rikusen0335/OmaeWoMiteiru)
+- [Paper(Bukkit) plugin to generate random dungeon using structure](https://github.com/rikusen0335/Dungeoner)
 
 ## About me
 - 🌱 I’m currently learning Rust, Golang, TypeScript (also React.js)
@@ -26,6 +29,12 @@
 - 😄 Pronouns: Anything is okay but prefer he/him
 - ⚡ Fun fact: 165cm tall
 
+## Description
+Hi, I'm rikusen, a.k.a Soshi Homma, who does write codes for fun.
+Mainly uses frontend technologies like Next.js, Nuxt.js or something like that.
+I prefer using modern and static-typed language like Elixir(not typed), Golang, Rust, Kotlin, tho, more like, pure functional language Scala(not tried yet x\).
+I can write codes Next.js(JS/TS), Nuxt.js(TS/JS - Options API), Golang, Ruby on Rails, SpringBoot, Ktor for business level.
+I prefer CLIs. Uses git only from terminal rather than VSCode or something.
 
 <!--
 **rikusen0335/rikusen0335** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
