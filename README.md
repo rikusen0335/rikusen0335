@@ -38,6 +38,8 @@ I prefer using modern and static-typed language like Elixir(not typed), Golang, 
 
 I can write codes Next.js(JS/TS), Nuxt.js(TS/JS - Options API), Golang, Ruby on Rails, SpringBoot, Ktor for business level.
 
+I do use Terraform as AWS infrastructure, and that also means I can play with AWS. IaaC is a must-have thing.
+
 I prefer CLIs. Uses git only from terminal rather than VSCode or something.
 
 <!--
